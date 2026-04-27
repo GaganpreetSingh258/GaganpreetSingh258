@@ -20,7 +20,7 @@ About Me
 - 🛒 E-Commerce Platform (with payment integration)
 - 🎧 Custom Audio Player (React)
 
-👉 Portfolio: https://gaganpreetsingh-portfolio.web.app/
+👉 Portfolio: https://gaganpreetsingh.web.app/
 
 
 🤝 Let's Collaborate
